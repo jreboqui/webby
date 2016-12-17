@@ -19,3 +19,17 @@ h1 {
   color: blue;
   font-size: 20px;
 }
+
+#DaySix {
+  border-radius: 25px;
+  background: #8297ba;
+  padding: 20px; 
+  width: 200px;
+  height: 150px; 
+  
+}
+
+#DaySix h2 {
+  color: #931123;
+  font-size: 10px;
+}
