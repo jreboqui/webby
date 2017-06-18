@@ -1,3 +1,7 @@
+* { 
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
 body {
       font-size: 14px;
       color: navy;
@@ -7,3 +11,5 @@ h1 {
       color: #ffc;
       background-color: #547db7;
     }
+	
+	
