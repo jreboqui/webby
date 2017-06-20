@@ -1,12 +1,18 @@
-/** { 
-  border: 1px solid rgba(0, 0, 0, 0.3);
-} */
+* { 
+  /*border: 1px solid rgba(0, 0, 0, 0.3); */
+ /*background-color: #BEE9E4; */
+  background-color: #E1CEB1; 
+  /*background-color: #9FC2BA; */
+}  
 
 body {
       font-size: 14px;
       color: black;
      }
 
+p {
+	min-width: 300px;
+}
 	
 li {
 
@@ -30,6 +36,7 @@ li {
   width: 60%;
   padding: 30px 10px;
   margin: auto;
+  background: None;
 }
 
 
@@ -38,6 +45,7 @@ h1 {
   font-size: 42px;
   font-weight: 600;
   text-align: center;
+  background: None;
 }
 
 
@@ -67,3 +75,10 @@ h1 {
   color: #D7263D;
   animation: ease;
 }
+
+
+
+
+
+
+
