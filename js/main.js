@@ -8,7 +8,7 @@ function main() {
   
   $('#bannerP1').fadeIn(9000);
   $('#bannerP2').fadeIn(8000);
-  $('#bannerP3').fadeIn(7000);
+ 
  
  
 
